@@ -13,28 +13,28 @@
     <div class="container" id="affichage-livre">
         <div class="showbooks">
             <div class="show">
-                <img src="" alt="">
+                <img src="../img/7 1.svg" alt="">
             </div>
             <div class="show">
                 <img src="" alt="">
             </div>
             <div class="show">
-                <img src="../src/img/1 1.svg" alt="">
+                <img src="../img/1 1.svg" alt="">
             </div>
             <div class="show">
-                <img src="" alt="">
+                <img src="../img/2 2.svg" alt="">
             </div>
             <div class="show">
-                <img src="" alt="">
+                <img src="../img/3 1.svg" alt="">
             </div>
             <div class="show">
-                <img src="" alt="">
+                <img src="../img/3 2.svg" alt="">
             </div>
             <div class="show">
-                <img src="" alt="">
+                <img src="../img/4 1.svg" alt="">
             </div>
             <div class="show">
-                <img src="" alt="">
+                <img src="../img/4 2.svg" alt="">
             </div>
         </div>
     </div>
