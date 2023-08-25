@@ -201,9 +201,10 @@ li{
     #cont{
         display: none;
     }
-    .logo-foot{
-        display: none;
-    }
+   .logo-foot{
+    display: flex;
+
+   }
 
 }
 /*PHONE */
@@ -264,7 +265,8 @@ li{
         height: 30vh;
         margin: 2%;
       }
-      .nav-foot{
+    
+      .navf{
         display: none;
       }
       footer .footer-livres{
@@ -273,6 +275,14 @@ li{
      }
      footer{
         padding: 6% 20%;
+     }
+     .logo-foot{
+       display: grid;
+       grid-template-columns: auto auto auto auto ;
+       gap: 20px;
+     }
+     .logo-foot img{
+        width: 50px;
      }
  
 }
