@@ -203,8 +203,9 @@ li{
     }
    .logo-foot{
     display: flex;
-
+    justify-content: space-between;
    }
+
 
 }
 /*PHONE */
@@ -279,10 +280,10 @@ li{
      .logo-foot{
        display: grid;
        grid-template-columns: auto auto auto auto ;
-       gap: 20px;
+       gap: 30px;
      }
      .logo-foot img{
-        width: 50px;
+        width: 40px;
      }
  
 }
