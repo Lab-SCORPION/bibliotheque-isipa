@@ -23,3 +23,14 @@
     border-radius: 20px ;
     text-align: center;
 }
+@media only screen and (max-width:700px) {
+    .bgAcceuil-biblotheque{
+        height:60vh;
+    }
+    .choix-contentRow{
+        flex-direction:column;
+    }
+    .choix-contentRow > a{
+        margin:4px;
+    }
+}
